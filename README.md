@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Here you find a bunch of projects that scratch my own itches in the areas of: JavaCard-s and GlobalPlatform, generic smart cards with Java/JavaScript; Estonian eID
+
 <!--
 **martinpaljak/martinpaljak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -8,9 +8,9 @@ Most probably you're here because of the "open source javacard sdk" that consist
 
 NFC/NDEF and [FIDO/WebAuthn](https://github.com/martinpaljak/FIDO2) are topics where you can expect developments in 2023/2024
 
-There are also historical bits and pieces related to generic smart cards (PC/SC, CCID) and crypto with Java/JavaScript/PKCS#11 and Estonian eID.
+There are also historical bits and pieces related to generic smart cards (PC/SC, CCID) and crypto with Java/JavaScript/PKCS#11 and Estonian eID and identity (OpenID etc) in general.
 
-Feel free to drop me a line via e-mail if you have any questions!
+Feel free to [ping me directly (linkedin)](https://www.linkedin.com/in/martinpaljak/) if you have any questions!
 
 # News
 - April 2023: [GlobalPlatformPro](https://github.com/martinpaljak/GlobalPlatformPro) received a small recognition from Google Open Source via a Peer Bonus :) (thx kt)

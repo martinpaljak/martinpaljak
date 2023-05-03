@@ -1,18 +1,18 @@
 ### Hi there 👋
 
-I'm Martin from 🇪🇪 Estonia and every now and then I push to Github code that scratches my own itches (remember [Kerckhoff's principle](https://en.wikipedia.org/wiki/Kerckhoffs%27s_principle)!).
+I'm Martin from 🇪🇪 Estonia and every now and then I push code to Github, that scratches my own itches (remembering [Kerckhoff's principle](https://en.wikipedia.org/wiki/Kerckhoffs%27s_principle)!).
 
 Most probably you're here because of the "open source javacard sdk" that consists of
   - 🌐 [GlobalPlatformPro](https://github.com/martinpaljak/GlobalPlatformPro)
-  - 🐜 and [ant-javacard](https://github.com/martinpaljak/ant-javacard)
+  - 🐜 [ant-javacard](https://github.com/martinpaljak/ant-javacard)
 
-NFC/NDEF and [FIDO/WebAuthn](https://github.com/martinpaljak/FIDO2) are topics where you can expect developments in 2023/2024
+🛜 NFC/NDEF and 🔑 [FIDO/WebAuthn](https://github.com/martinpaljak/FIDO2) are topics where you can expect developments in 2023/2024. 
 
-There are also historical bits and pieces related to generic smart cards (PC/SC, CCID) and crypto with Java/JavaScript/PKCS#11 and Estonian eID and identity (OpenID etc) in general.
+There are also historical bits and pieces related to generic smart cards (PC/SC, CCID) and crypto with Java/JavaScript/PKCS#11, and Estonian eID and identity (OpenID etc) in general.
 
 When it comes to [Estonian eID](https://www.id.ee), most of what I worked on has been continued by others: [@OpenSC](https://github.com/OpenSC) (open source PKCS#11 and native platform crypto drivers for smart cards), [@web-eid](https://github.com/web-eid) (modern WebExtensions based authentication and signing for desktop browsers) and [@open-eid](https://github.com/open-eid) (ages ago I pushed Estonia to publish (most of) it's eID client software as open source)
 
-Feel free to [book a call](https://calendly.com/martinpaljak/hello) if you have any questions or ongoing projects in these domains!
+Feel free to 💬 [book a call](https://calendly.com/martinpaljak/hello) if you have any questions or ongoing projects in these domains!
 
 # News
 - April 2023: [GlobalPlatformPro](https://github.com/martinpaljak/GlobalPlatformPro) received a small recognition from Google Open Source via a Peer Bonus :) (thx kt)

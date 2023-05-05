@@ -15,7 +15,7 @@ When it comes to [Estonian eID](https://www.id.ee), most of what I worked on has
 Feel free to 💬 [book a call](https://calendly.com/martinpaljak/hello) if you have any questions or ongoing projects in these domains!
 
 # News
-- April 2023: [GlobalPlatformPro](https://github.com/martinpaljak/GlobalPlatformPro) received [a small recognition from Google Open Source via a Peer Bonus](https://www.linkedin.com/feed/update/urn:li:activity:7059085254472458255/) :) (thx kt)
+- April 2023: [GlobalPlatformPro](https://github.com/martinpaljak/GlobalPlatformPro) received [a small recognition from Google Open Source](https://www.linkedin.com/feed/update/urn:li:activity:7059085254472458255/) via a [Peer Bonus](https://opensource.google/documentation/reference/growing/peer-bonus) :) (thx kt)
 
 ![[Google Open Source Peer Bonus for GlobalPlatformPro]](2023_google_open_source_peer_bonus_globalplatformpro.jpeg)
 <!--

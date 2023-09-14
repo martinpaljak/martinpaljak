@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Martin from 🇪🇪 Estonia 🇪🇺. Every now and then I push code to Github, that scratches my own itches (remembering [Kerckhoff's principle](https://en.wikipedia.org/wiki/Kerckhoffs%27s_principle)!).
+This is Martin from 🇪🇪 Estonia 🇪🇺. Every now and then I push code to Github, that scratches my own itches (remembering [Kerckhoff's principle](https://en.wikipedia.org/wiki/Kerckhoffs%27s_principle)!).
 
 Most probably you're here because of the "open source javacard software development toolkit" that consists of
   - 🌐 [GlobalPlatformPro](https://github.com/martinpaljak/GlobalPlatformPro)

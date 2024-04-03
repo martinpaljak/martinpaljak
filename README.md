@@ -16,6 +16,7 @@ When it comes to [Estonian eID](https://www.id.ee), most of what I worked on has
 Feel free to 💬 [book a call](https://calendly.com/martinpaljak/hello) if you have any questions or ongoing projects in these domains or to 🙏 [sponsor my open source work](https://github.com/sponsors/martinpaljak)!
 
 # News
+- March 2024: [ant-javacard](https://github.com/martinpaljak/ant-javacard) now supports the latest v3.2.0 JavaCard SDK
 - August 2023: [ant-javacard](https://github.com/martinpaljak/ant-javacard) got a new release after almost 2 years. Groundwork for a smoother and more stable build toolkit and new release for GlobalPlatformPro as well.
 - July 2023: ["NFC tags for PC-s"](https://github.com/martinpaljak/NFC4PC) got a rewrite and first pretty release. Have a look!
 - April 2023: [GlobalPlatformPro](https://github.com/martinpaljak/GlobalPlatformPro) [received](https://opensource.googleblog.com/2023/05/google-open-source-peer-bonus-program-announces-first-group-of-winners-2023.html) [a small recognition from Google Open Source](https://www.linkedin.com/feed/update/urn:li:activity:7059085254472458255/) via a [Peer Bonus](https://opensource.google/documentation/reference/growing/peer-bonus) :) (thx @kt)

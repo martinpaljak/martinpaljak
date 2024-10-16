@@ -13,7 +13,7 @@ There are also historical bits and pieces related to generic smart cards (PC/SC,
 
 When it comes to [Estonian eID](https://www.id.ee), most of what I worked on has been continued by others: [@OpenSC](https://github.com/OpenSC) (open source PKCS#11 and native platform crypto drivers for smart cards), [@web-eid](https://github.com/web-eid) (modern WebExtensions based authentication and signing for desktop browsers) and [@open-eid](https://github.com/open-eid) (ages ago I pushed Estonia to publish (most of) it's eID client software as open source)
 
-Feel free to 💬 [book a call](https://calendly.com/martinpaljak/hello) if you have any questions or ongoing projects in these domains or to 🙏 [sponsor my open source work](https://github.com/sponsors/martinpaljak)!
+Feel free to 💬 [book a call](https://calendly.com/martinpaljak/hello) if you have any questions or ongoing projects in these domains or to [sponsor my open source work](https://github.com/sponsors/martinpaljak)!
 
 ![Made in Estonia](https://img.shields.io/badge/Made_in-Estonia-0072CE)
 

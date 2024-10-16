@@ -15,6 +15,8 @@ When it comes to [Estonian eID](https://www.id.ee), most of what I worked on has
 
 Feel free to 💬 [book a call](https://calendly.com/martinpaljak/hello) if you have any questions or ongoing projects in these domains or to 🙏 [sponsor my open source work](https://github.com/sponsors/martinpaljak)!
 
+![Made in Estonia](https://img.shields.io/badge/Made_in-Estonia-0072CE)
+
 # News
 - October 2024: [GlobalPlatformPro](https://github.com/martinpaljak/GlobalPlatformPro) has a long-overdue release, with many new features.
 - October 2024: [ant-javacard](https://github.com/martinpaljak/ant-javacard) v24.10.15 released with minor adjustments for latest JC 3.2.0 SDK v24.1 release

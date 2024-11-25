@@ -7,7 +7,7 @@ Most probably you're here because of the "open source javacard software developm
   - 🌐 [GlobalPlatformPro](https://github.com/martinpaljak/GlobalPlatformPro)
   - 🐜 [ant-javacard](https://github.com/martinpaljak/ant-javacard)
 
-🛜 [NFC/NDEF](https://github.com/martinpaljak/NFC4PC) and 🔑 [FIDO/WebAuthn](https://github.com/martinpaljak/FIDO2) are topics where you can expect developments in 2024. 
+🛜 [NFC/NDEF](https://github.com/martinpaljak/NFC4PC) and 🔑 [FIDO/WebAuthn](https://github.com/martinpaljak/YAFU) are topics where you can expect developments in 2024. 
 
 There are also historical bits and pieces related to generic smart cards (PC/SC, CCID) and crypto with Java/JavaScript/PKCS#11, and Estonian eID and identity (OpenID etc) in general.
 

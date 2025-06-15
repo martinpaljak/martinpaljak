@@ -18,6 +18,7 @@ Feel free to 💬 [book a call](https://calendly.com/martinpaljak/hello) if you 
 [![Made in Estonia](https://img.shields.io/badge/Made_in-Estonia-0072CE)](https://estonia.ee)
 
 # News
+- June 2025: [jcardsim](https://github.com/martinpaljak/jcardsim) got forked, for a better future.
 - February 2025: [SSHProvider](https://github.com/martinpaljak/java-ssh-provider) enables easy access to SSH keys in hardware, from Java.
 - October 2024: [GlobalPlatformPro](https://github.com/martinpaljak/GlobalPlatformPro) has a long-overdue release, with many new features.
 - October 2024: [ant-javacard](https://github.com/martinpaljak/ant-javacard) v24.10.15 released with minor adjustments for latest JC 3.2.0 SDK v24.1 release

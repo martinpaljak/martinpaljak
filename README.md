@@ -6,6 +6,7 @@ Martin from 🇪🇪 Estonia 🇪🇺 here. Every now and then I push code to Gi
 Most probably you're here because of the "open source javacard software development toolkit" that consists of
   - 🌐 [GlobalPlatformPro](https://github.com/martinpaljak/GlobalPlatformPro)
   - 🐜 [ant-javacard](https://github.com/martinpaljak/ant-javacard)
+  - 🩺 [jcardsim](https://github.com/martinpaljak/jcardsim)
 
 🛜 [NFC/NDEF](https://github.com/martinpaljak/NFC4PC) and 🔑 [FIDO/WebAuthn](https://github.com/martinpaljak/YAFU) and 🧑‍💻 [SSH](https://github.com/martinpaljak/java-ssh-provider) are topics where you can expect developments in 2025. 
 

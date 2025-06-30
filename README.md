@@ -6,7 +6,9 @@ Martin from 🇪🇪 Estonia 🇪🇺 here. Every now and then I push code to Gi
 Most probably you're here because of the "open source javacard software development toolkit" that consists of
   - 🌐 [GlobalPlatformPro](https://github.com/martinpaljak/GlobalPlatformPro)
   - 🐜 [ant-javacard](https://github.com/martinpaljak/ant-javacard)
-  - 🩺 [jcardsim](https://github.com/martinpaljak/jcardsim)
+  - 🩺 [JCardEngine](https://github.com/martinpaljak/JCardEngine)
+
+Currently figuring out how to best create synergy between GlobalPlatformPro and JCardEngine, due to happen within 2025!
 
 🛜 [NFC/NDEF](https://github.com/martinpaljak/NFC4PC) and 🔑 [FIDO/WebAuthn](https://github.com/martinpaljak/YAFU) and 🧑‍💻 [SSH](https://github.com/martinpaljak/java-ssh-provider) are topics where you can expect developments in 2025. 
 
@@ -19,7 +21,7 @@ Feel free to 💬 [book a call](https://calendly.com/martinpaljak/hello) if you 
 [![Made in Estonia](https://img.shields.io/badge/Made_in-Estonia-0072CE)](https://estonia.ee)
 
 # News
-- June 2025: [jcardsim](https://github.com/martinpaljak/jcardsim) got forked, for a better future.
+- June 2025: [JCardEngine](https://github.com/martinpaljak/JCardEngine) was created for a better future for [jcardsim](https://github.com/licel/jcardsim)
 - February 2025: [SSHProvider](https://github.com/martinpaljak/java-ssh-provider) enables easy access to SSH keys in hardware, from Java.
 - October 2024: [GlobalPlatformPro](https://github.com/martinpaljak/GlobalPlatformPro) has a long-overdue release, with many new features.
 - October 2024: [ant-javacard](https://github.com/martinpaljak/ant-javacard) v24.10.15 released with minor adjustments for latest JC 3.2.0 SDK v24.1 release

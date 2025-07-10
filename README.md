@@ -4,9 +4,9 @@
 Martin from 🇪🇪 Estonia 🇪🇺 here. Every now and then I push code to GitHub, that scratches my own itches (remembering [Kerckhoff's principle](https://en.wikipedia.org/wiki/Kerckhoffs%27s_principle)!).
 
 Most probably you're here because of the "open source javacard software development toolkit" that consists of
-  - 🌐 [GlobalPlatformPro](https://github.com/martinpaljak/GlobalPlatformPro)
   - 🐜 [ant-javacard](https://github.com/martinpaljak/ant-javacard)
   - 🩺 [JCardEngine](https://github.com/martinpaljak/JCardEngine)
+  - 🌐 [GlobalPlatformPro](https://github.com/martinpaljak/GlobalPlatformPro)
 
 Currently figuring out how to best combine GlobalPlatformPro and JCardEngine without creating cyclic dependencies ;)
 

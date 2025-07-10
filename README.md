@@ -18,7 +18,7 @@ When it comes to [Estonian eID](https://www.id.ee), most of what I worked on has
 
 Feel free to 💬 [book a call](https://calendly.com/martinpaljak/hello) if you have any questions or ongoing projects in these domains or to [sponsor my open source work](https://github.com/sponsors/martinpaljak)!
 
-[![Made in Estonia](https://img.shields.io/badge/Made_in-Estonia-0072CE)](https://estonia.ee)
+[![Made in Estonia](https://img.shields.io/badge/Made_in-Estonia-0072CE?style=flat&label=Made%20in&labelColor=black)](https://estonia.ee)
 
 # News
 - June 2025: [JCardEngine](https://github.com/martinpaljak/JCardEngine) was created for a better future for [jcardsim](https://github.com/licel/jcardsim)

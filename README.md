@@ -8,7 +8,7 @@ Most probably you're here because of the "open source javacard software developm
   - 🐜 [ant-javacard](https://github.com/martinpaljak/ant-javacard)
   - 🩺 [JCardEngine](https://github.com/martinpaljak/JCardEngine)
 
-Currently figuring out how to best create synergy between GlobalPlatformPro and JCardEngine!
+Currently figuring out how to best combine GlobalPlatformPro and JCardEngine without creating cyclic dependencies ;)
 
 🛜 [NFC/NDEF](https://github.com/martinpaljak/NFC4PC) and 🔑 [FIDO/WebAuthn](https://github.com/martinpaljak/YAFU) and 🧑‍💻 [SSH](https://github.com/martinpaljak/java-ssh-provider) are topics where you can expect developments in 2025. 
 

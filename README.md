@@ -8,8 +8,6 @@ Most probably you're here because of the "open source javacard software developm
   - 🩺 [JCardEngine](https://github.com/martinpaljak/JCardEngine)
   - 🌐 [GlobalPlatformPro](https://github.com/martinpaljak/GlobalPlatformPro)
 
-Currently figuring out how to best combine GlobalPlatformPro and JCardEngine without creating cyclic dependencies ;)
-
 🛜 [NFC/NDEF](https://github.com/martinpaljak/NFC4PC) and 🔑 [FIDO/WebAuthn](https://github.com/martinpaljak/YAFU) and 🧑‍💻 [SSH](https://github.com/martinpaljak/java-ssh-provider) are topics where you can expect developments in 2025. 
 
 There are also historical bits and pieces related to generic smart cards (PC/SC, CCID) and crypto with Java/JavaScript/PKCS#11, and Estonian eID and identity (OpenID etc) in general.

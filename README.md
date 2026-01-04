@@ -8,7 +8,7 @@ Most probably you're here because of the "open source javacard software developm
   - 🩺 [JCardEngine](https://github.com/martinpaljak/JCardEngine)
   - 🌐 [GlobalPlatformPro](https://github.com/martinpaljak/GlobalPlatformPro)
 
-🛜 [NFC/NDEF](https://github.com/martinpaljak/NFC4PC) and 🔑 [FIDO/WebAuthn](https://github.com/martinpaljak/YAFU) and 🧑‍💻 [SSH](https://github.com/martinpaljak/java-ssh-provider) are topics where you can expect developments in 2025. 
+🛜 [NFC/NDEF](https://github.com/martinpaljak/NFC4PC) and 🔑 [FIDO/WebAuthn](https://github.com/martinpaljak/YAFU) and 🧑‍💻 [SSH](https://github.com/martinpaljak/java-ssh-provider) are topics where you can expect developments in 2026. 
 
 There are also historical bits and pieces related to generic smart cards (PC/SC, CCID) and crypto with Java/JavaScript/PKCS#11, and Estonian eID and identity (OpenID etc) in general.
 
@@ -19,6 +19,7 @@ If you [sponsor my open source work](https://github.com/sponsors/martinpaljak) I
 [![Made in Estonia](https://img.shields.io/badge/Made_in-Estonia-0072CE?style=flat&label=Made%20in&labelColor=black)](https://estonia.ee)
 
 # News
+- January 2026: [maven-ssh-deploy](https://github.com/martinpaljak/maven-ssh-deploy) Github Action powers [mvn.javacard.pro](https://mvn.javacard.pro/maven/) repository publishing from Github
 - June 2025: [JCardEngine](https://github.com/martinpaljak/JCardEngine) was created for a better future for [jcardsim](https://github.com/licel/jcardsim)
 - February 2025: [SSHProvider](https://github.com/martinpaljak/java-ssh-provider) enables easy access to SSH keys in hardware, from Java.
 - October 2024: [GlobalPlatformPro](https://github.com/martinpaljak/GlobalPlatformPro) has a long-overdue release, with many new features.

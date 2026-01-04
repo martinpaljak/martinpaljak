@@ -19,7 +19,7 @@ If you [sponsor my open source work](https://github.com/sponsors/martinpaljak) I
 [![Made in Estonia](https://img.shields.io/badge/Made_in-Estonia-0072CE?style=flat&label=Made%20in&labelColor=black)](https://estonia.ee)
 
 # News
-- January 2026: [maven-ssh-deploy](https://github.com/martinpaljak/maven-ssh-deploy) Github Action powers [mvn.javacard.pro](https://mvn.javacard.pro/maven/) repository publishing from Github
+- January 2026: [maven-ssh-deploy](https://github.com/marketplace/actions/maven-ssh-deploy) Github Action powers [mvn.javacard.pro](https://mvn.javacard.pro/maven/) repository publishing from Github
 - June 2025: [JCardEngine](https://github.com/martinpaljak/JCardEngine) was created for a better future for [jcardsim](https://github.com/licel/jcardsim)
 - February 2025: [SSHProvider](https://github.com/martinpaljak/java-ssh-provider) enables easy access to SSH keys in hardware, from Java.
 - October 2024: [GlobalPlatformPro](https://github.com/martinpaljak/GlobalPlatformPro) has a long-overdue release, with many new features.

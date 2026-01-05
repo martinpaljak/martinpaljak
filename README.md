@@ -1,7 +1,7 @@
 ![1674679905811](https://github.com/martinpaljak/martinpaljak/assets/46006/e5d149de-6792-4a5f-a00a-6c1fa32ad2df)
 ### Hi there 👋
 
-Martin from 🇪🇪 Estonia 🇪🇺 here. Every now and then I push code to GitHub, that scratches my own itches (remembering [Kerckhoff's principle](https://en.wikipedia.org/wiki/Kerckhoffs%27s_principle)!).
+Martin from 🇪🇪 Estonia 🇪🇺 here. Every now and then I push code to GitHub, that scratches my own itches (remembering [Kerckhoffs's principle](https://en.wikipedia.org/wiki/Kerckhoffs%27s_principle)!).
 
 Most probably you're here because of the "open source javacard software development toolkit" that consists of
   - 🐜 [ant-javacard](https://github.com/martinpaljak/ant-javacard)
